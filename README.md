@@ -6,7 +6,7 @@ This repository contains a high-dimensional neural network potential (NNP) for a
 
 ## Files
 
-- **`Al.frc`** – MedeA force field file containing the trained NNP parameters in native MedeA format.
+- **`NNP-Al.frc`** – MedeA force field file containing the trained NNP parameters in native MedeA format.
 - **`input.nn`** – LAMMPS input script for running molecular dynamics simulations with the NNP.
 - **`scaling.data`** – Scaling parameters for input/output normalization used by the neural network.
 - **`weights.013.data`** – Trained weights and biases of the neural network potential.
